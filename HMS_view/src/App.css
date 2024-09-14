@@ -1,0 +1,7 @@
+body{
+    background-image: url(./Images/photo.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 100vh;
+}
